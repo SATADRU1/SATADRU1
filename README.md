@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-Hii myself Satadru, currently a student in a engineering clg <br>I'm currently working on webdev , react and I've done some robotics projects<br>I'm looking to collaborate on <br>I'm looking for help with<br>I'm currently learning aiml projects <br>All of these I've some hobbies in photography ,sports, games , story teller
+Hii myself Satadru, currently a student in a Techno international Newtown engineering clg <br>I'm currently working on webdev , react and I've done some robotics projects<br>I'm looking to collaborate on <br>I'm looking for help with<br>I'm currently learning aiml projects <br>All of these I've some hobbies in photography ,sports, games , story teller
 
 
 ## 🌐 Socials:
