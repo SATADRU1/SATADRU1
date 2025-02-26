@@ -1,5 +1,5 @@
 ## Hii there 👋
-I'm Satadru:
+I'm Satadru:)
 <!--
 **SATADRU1/SATADRU1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
