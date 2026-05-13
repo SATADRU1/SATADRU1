@@ -17,11 +17,17 @@ Here are some ideas to get you started:
 # 💫 About Me:
 Hii myself Satadru, currently a student in a Techno international Newtown engineering clg <br>I'm currently working on webdev , react and I've done some robotics projects<br>I'm looking to collaborate on <br>I'm looking for help with<br>I'm currently learning aiml projects <br>Except all of these I've some hobbies in photography ,sports, games , story teller
 
+
 ## 🌐 Connect With Me
 
 <p align="left">
+
 <a href="https://discord.gg/mavrick1331">
 <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/satadru-mondal-a272b32ab">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="https://instagram.com/k._i._t._e">
@@ -31,7 +37,10 @@ Hii myself Satadru, currently a student in a Techno international Newtown engine
 <a href="mailto:satadrumondal1331@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
+
 </p>
+
+
 
 
 # 💻 Tech Stack:
