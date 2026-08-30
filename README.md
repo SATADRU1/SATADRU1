@@ -8,7 +8,7 @@
 
 ### 🧑‍💻 About Me
 
-- 🎓 3rd Year B.Tech CSE student at **Techno International Newtown**, Kolkata (MAKAUT)
+- 🎓 Final Year B.Tech CSE student at **Techno International Newtown**, Kolkata (MAKAUT)
 - 🔭 Currently building full-stack web apps and AI/ML projects (RAG pipelines, LLM integrations)
 - 🌱 Learning applied AI/ML and system design
 - 🤝 Open to collaborating on full-stack, AI/ML, or robotics projects
