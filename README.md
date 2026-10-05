@@ -80,60 +80,127 @@
 ### 💡 Featured Systems & Applications
 
 <table width="100%">
+  <!-- ROW 1: SkinOAI & MiniGPT -->
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🤖 GenAI FinTech / Advisory Platform</h3>
+      <h3 align="center">
+        <a href="https://github.com/SATADRU1/SkinOAI" target="_blank">📱 SkinOAI</a>
+      </h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js" />
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/LangChain-green?style=flat-square" />
+        <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react" alt="React Native" />
+        <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo" alt="Expo" />
+        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" />
+        <img src="https://img.shields.io/badge/Computer_Vision-555555?style=flat-square" alt="CV" />
       </p>
       <ul>
-        <li>Architected an end-to-end <b>RAG retrieval engine</b> indexing market disclosures and portfolio data.</li>
-        <li>Implemented streaming LLM completions with dynamic context injection and latency minimization.</li>
-        <li>Built an intuitive, responsive frontend dashboard using Next.js and Tailwind CSS.</li>
+        <li>Cross-platform mobile healthcare app leveraging device camera pipelines for on-device image capture.</li>
+        <li>Integrates multi-modal vision models to detect and classify skin conditions with confidence scoring.</li>
+        <li>Secure authentication, cloud storage, and historical user diagnosis tracking backed by Firebase.</li>
       </ul>
+      <p align="center">
+        <a href="https://github.com/SATADRU1/SkinOAI"><b>View Repository ➔</b></a>
+      </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">📱 SkinOAI — Diagnostic Assistant</h3>
+      <h3 align="center">
+        <a href="https://github.com/SATADRU1/minigpt" target="_blank">🧠 MiniGPT</a>
+      </h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react" />
-        <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo" />
-        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/Transformer-FFD43B?style=flat-square&logo=huggingface&logoColor=black" alt="Transformer" />
+        <img src="https://img.shields.io/badge/LLM-6f42c1?style=flat-square" alt="LLM" />
       </p>
       <ul>
-        <li>Cross-platform mobile application utilizing device camera hooks for rapid image ingestion.</li>
-        <li>Integrated computer vision inference pipelines for localized anomaly detection.</li>
-        <li>Real-time cloud sync, user authentication, and profile tracking backed by Firebase.</li>
+        <li>Implemented a decoder-only autoregressive Transformer language model from scratch in PyTorch.</li>
+        <li>Features multi-head causal self-attention, positional embeddings, and residual feed-forward layers.</li>
+        <li>Trained and benchmarked token generation, cross-entropy loss convergence, and sampling strategies.</li>
       </ul>
+      <p align="center">
+        <a href="https://github.com/SATADRU1/minigpt"><b>View Repository ➔</b></a>
+      </p>
     </td>
   </tr>
+
+  <!-- ROW 2: Orchestra AI & RedCat Live -->
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🎥 RedCat Live — Streaming Engine</h3>
+      <h3 align="center">
+        <a href="https://github.com/SATADRU1/orchestra-ai" target="_blank">🎼 Orchestra AI</a>
+        <br><sub><img src="https://img.shields.io/badge/Status-In%20Progress-yellow?style=flat-square" alt="In Progress" /></sub>
+      </h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/Nuxt.js-002E3B?style=flat-square&logo=nuxtdotjs" />
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square" />
+        <img src="https://img.shields.io/badge/GenAI-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="GenAI" />
+        <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" />
+        <img src="https://img.shields.io/badge/Autonomous_Agents-0052CC?style=flat-square" alt="Agents" />
       </p>
       <ul>
-        <li>Modern live video broadcasting interface engineered with Nuxt.js, TypeScript, and Tailwind CSS.</li>
-        <li>Full-duplex low-latency interactive chat rooms and real-time subscriber channels.</li>
-        <li>Modular frontend architecture for maintainable route handling and state persistence.</li>
+        <li><b>Final-Year Capstone:</b> Multi-agent orchestration framework coordinating autonomous LLM workflows.</li>
+        <li>Implements context routing, dynamic tool selection, memory buffers, and recursive task decomposition.</li>
+        <li>Engineered for fault-tolerant task execution and modular agent collaboration.</li>
       </ul>
+      <p align="center">
+        <a href="https://github.com/SATADRU1/orchestra-ai"><b>View Repository ➔</b></a>
+      </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">⚡ High-Performance Browse Engine</h3>
+      <h3 align="center">
+        <a href="https://github.com/SATADRU1/RedCat_Live" target="_blank">🎥 RedCat Live</a>
+      </h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/C++17-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
-        <img src="https://img.shields.io/badge/STL-gray?style=flat-square" />
-        <img src="https://img.shields.io/badge/DSA-critical?style=flat-square" />
+        <img src="https://img.shields.io/badge/Nuxt.js-002E3B?style=flat-square&logo=nuxtdotjs&logoColor=00DC82" alt="Nuxt.js" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind" />
+        <img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square" alt="WebSockets" />
       </p>
       <ul>
-        <li>Custom e-commerce catalog traversal and ranking engine built in modern C++.</li>
-        <li>Leverages optimized DAG traversals, popularity sorting heuristics, and memory-safe <code>std::optional</code> handlers.</li>
-        <li>Designed for ultra-low latency query responses under high simulated catalog loads.</li>
+        <li>Modern live broadcasting interface engineered with Nuxt.js, TypeScript, and reactive layout design.</li>
+        <li>Low-latency real-time chat room communication, streamer controls, and viewer interaction layers.</li>
+        <li>Clean modular component hierarchy with optimized client-side hydration and state management.</li>
       </ul>
+      <p align="center">
+        <a href="https://github.com/SATADRU1/RedCat_Live"><b>View Repository ➔</b></a>
+      </p>
+    </td>
+  </tr>
+
+  <!-- ROW 3: LeetCode & SQL -->
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">
+        <a href="https://github.com/SATADRU1/LeetCode" target="_blank">🧩 LeetCode & Problem Solving</a>
+      </h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/C++17-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
+        <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode" />
+        <img src="https://img.shields.io/badge/Algorithms-critical?style=flat-square" alt="Algorithms" />
+      </p>
+      <ul>
+        <li>Curated solutions to Medium and Hard algorithmic challenges targeting top product companies.</li>
+        <li>Extensive focus on Dynamic Programming, Graphs (BFS/DFS, Dijkstra), Trees, and Bit Manipulation.</li>
+        <li>Each solution structured with asymptotic time & space complexity breakdowns and edge-case tests.</li>
+      </ul>
+      <p align="center">
+        <a href="https://github.com/SATADRU1/LeetCode"><b>View Repository ➔</b></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">
+        <a href="https://github.com/SATADRU1/SQL" target="_blank">🗄️ SQL & Data Engineering</a>
+      </h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+        <img src="https://img.shields.io/badge/Query_Optimization-orange?style=flat-square" alt="Optimization" />
+      </p>
+      <ul>
+        <li>Advanced relational queries covering complex joins, subqueries, indexing, and window functions (CTEs).</li>
+        <li>Database normalization, ACID transactions, relational schema design, and query optimization patterns.</li>
+        <li>Contains hands-on interview problem sets from LeetCode SQL 50 and real-world analytical scenarios.</li>
+      </ul>
+      <p align="center">
+        <a href="https://github.com/SATADRU1/SQL"><b>View Repository ➔</b></a>
+      </p>
     </td>
   </tr>
 </table>
