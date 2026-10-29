@@ -26,15 +26,15 @@
 
 ### 🚀 About Me
 
-- 🎓 **Final-Year CSE Undergrad** at Techno International Newtown (MAKAUT), Kolkata.
-- ⚙️ **Core Focus:** High-performance backend architectures, full-stack systems, and production GenAI pipelines (RAG, agentic tools, vector search).
-- 🧩 **Algorithmic Problem Solving:** Actively tackling medium & hard challenges across Trees, Graphs, Dynamic Programming, and System Design.
-- 🎯 **Career Goal:** Targeting SDE / Full-Stack / AI-ML engineering roles at tier-one product organizations.
-- ⚡ **Beyond the Terminal:** Outdoor trekking & exploration, photography, and gaming.
+- **Final-Year CSE Undergrad** at Techno International Newtown (MAKAUT), Kolkata.
+- **Core Focus:** High-performance backend architectures, full-stack systems, and production GenAI pipelines (RAG, agentic tools, vector search).
+- **Algorithmic Problem Solving:** Actively tackling medium & hard challenges across Trees, Graphs, Dynamic Programming, and System Design.
+- **Career Goal:** Targeting SDE / Full-Stack / AI-ML engineering roles at tier-one product organizations.
+- **Beyond the Terminal:** Outdoor trekking & exploration, photography, and gaming.
 
 ---
 
-### 🛠️ Tech Stack & Ecosystem
+### Tech Stack & Ecosystem
 
 <div align="left">
 
@@ -77,14 +77,14 @@
 
 ---
 
-### 💡 Featured Systems & Applications
+### Featured Systems & Applications
 
 <table width="100%">
   <!-- ROW 1: SkinOAI & MiniGPT -->
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">
-        <a href="https://github.com/SATADRU1/SkinOAI" target="_blank">📱 SkinOAI</a>
+        <a href="https://github.com/SATADRU1/SkinOAI" target="_blank">SkinOAI</a>
       </h3>
       <p align="center">
         <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react" alt="React Native" />
@@ -103,7 +103,7 @@
     </td>
     <td width="50%" valign="top">
       <h3 align="center">
-        <a href="https://github.com/SATADRU1/minigpt" target="_blank">🧠 MiniGPT</a>
+        <a href="https://github.com/SATADRU1/minigpt" target="_blank">MiniGPT</a>
       </h3>
       <p align="center">
         <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
@@ -126,7 +126,7 @@
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">
-        <a href="https://github.com/SATADRU1/orchestra-ai" target="_blank">🎼 Orchestra AI</a>
+        <a href="https://github.com/SATADRU1/orchestra-ai" target="_blank"> Orchestra AI</a>
         <br><sub><img src="https://img.shields.io/badge/Status-In%20Progress-yellow?style=flat-square" alt="In Progress" /></sub>
       </h3>
       <p align="center">
@@ -145,7 +145,7 @@
     </td>
     <td width="50%" valign="top">
       <h3 align="center">
-        <a href="https://github.com/SATADRU1/RedCat_Live" target="_blank">🎥 RedCat Live</a>
+        <a href="https://github.com/SATADRU1/RedCat_Live" target="_blank">RedCat Live</a>
       </h3>
       <p align="center">
         <img src="https://img.shields.io/badge/Nuxt.js-002E3B?style=flat-square&logo=nuxtdotjs&logoColor=00DC82" alt="Nuxt.js" />
@@ -168,7 +168,7 @@
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">
-        <a href="https://github.com/SATADRU1/LeetCode" target="_blank">🧩 LeetCode & Problem Solving</a>
+        <a href="https://github.com/SATADRU1/LeetCode" target="_blank"> LeetCode & Problem Solving</a>
       </h3>
       <p align="center">
         <img src="https://img.shields.io/badge/C++17-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
@@ -186,7 +186,7 @@
     </td>
     <td width="50%" valign="top">
       <h3 align="center">
-        <a href="https://github.com/SATADRU1/SQL" target="_blank">🗄️ SQL & Data Engineering</a>
+        <a href="https://github.com/SATADRU1/SQL" target="_blank">SQL & Data Engineering</a>
       </h3>
       <p align="center">
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
@@ -207,7 +207,7 @@
 
 ---
 
-### 📊 Engineering Metrics & Activity
+### Engineering Metrics & Activity
 
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=SATADRU1&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
@@ -220,7 +220,7 @@
 
 ---
 
-### 🏆 Achievements & Badges
+###  Achievements & Badges
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=SATADRU1&theme=tokyonight&no-frame=true&column=7&margin-w=8&margin-h=8" alt="GitHub Trophies" />
@@ -228,7 +228,7 @@
 
 ---
 
-### 🐍 Contribution Graph
+### Contribution Graph
 
 <div align="center">
   <picture>
